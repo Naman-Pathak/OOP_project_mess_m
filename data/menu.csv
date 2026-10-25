@@ -1,0 +1,154 @@
+day,meal,slot,dish,type
+# Source: IIIT Bhubaneswar, Ground Floor Mess weekly menu (photo supplied by the user).
+# type = fixed (everyone gets it) or choice (students pick one of the choice dishes in that slot).
+# Compulsory items (Egg/Banana, Pickle) come from the note under the menu; the meal they are attached to is an assumption.
+Monday,Breakfast,Items,Chole Bhature,fixed
+Monday,Breakfast,Items,Tea/Coffee,fixed
+Monday,Breakfast,Items,Milk,fixed
+Monday,Breakfast,Compulsory,Egg/Banana,fixed
+Monday,Lunch,Common,Rice,fixed
+Monday,Lunch,Common,Roti,fixed
+Monday,Lunch,Common,Dalma,fixed
+Monday,Lunch,Common,Papad,fixed
+Monday,Lunch,Common,Curd,fixed
+Monday,Lunch,Dry,Tomato Khatta,fixed
+Monday,Lunch,Gravy,Soyabean Curry,fixed
+Monday,Lunch,Compulsory,Pickle,fixed
+Monday,Dinner,Common,Rice,fixed
+Monday,Dinner,Common,Roti,fixed
+Monday,Dinner,Common,Masoor Dal,fixed
+Monday,Dinner,Common,Salad,fixed
+Monday,Dinner,Dry,Vegetable Chips,fixed
+Monday,Dinner,Gravy,Veg Tadka,fixed
+Monday,Dinner,Dessert,Pahala Rasgulla,fixed
+Monday,Dinner,Compulsory,Pickle,fixed
+Tuesday,Breakfast,Items,Aloo Paratha,fixed
+Tuesday,Breakfast,Items,Tomato Sauce,fixed
+Tuesday,Breakfast,Items,Tea/Coffee,fixed
+Tuesday,Breakfast,Items,Milk,fixed
+Tuesday,Breakfast,Compulsory,Egg/Banana,fixed
+Tuesday,Lunch,Common,Jeera Rice,fixed
+Tuesday,Lunch,Common,Roti,fixed
+Tuesday,Lunch,Common,Arhar Dal,fixed
+Tuesday,Lunch,Common,Chips,fixed
+Tuesday,Lunch,Dry,Paneer Bhurji,fixed
+Tuesday,Lunch,Gravy,Ghanta,fixed
+Tuesday,Lunch,Compulsory,Pickle,fixed
+Tuesday,Dinner,Common,Rice,fixed
+Tuesday,Dinner,Common,Roti,fixed
+Tuesday,Dinner,Common,Chana Dal,fixed
+Tuesday,Dinner,Common,Chips,fixed
+Tuesday,Dinner,Dry,Aloo Banana Chips,fixed
+Tuesday,Dinner,Gravy,Egg Curry,choice
+Tuesday,Dinner,Gravy,Mix Veg,choice
+Tuesday,Dinner,Compulsory,Pickle,fixed
+Wednesday,Breakfast,Items,Pasta/Macaroni,fixed
+Wednesday,Breakfast,Items,Tomato Sauce,fixed
+Wednesday,Breakfast,Items,Bread with Jam/Butter,fixed
+Wednesday,Breakfast,Items,Tea/Coffee,fixed
+Wednesday,Breakfast,Items,Milk,fixed
+Wednesday,Breakfast,Compulsory,Egg/Banana,fixed
+Wednesday,Lunch,Common,Rice,fixed
+Wednesday,Lunch,Common,Roti,fixed
+Wednesday,Lunch,Common,Masoor Dal,fixed
+Wednesday,Lunch,Common,Salad,fixed
+Wednesday,Lunch,Dry,Beans-Aloo Fry,fixed
+Wednesday,Lunch,Gravy,Parwal Curry,fixed
+Wednesday,Lunch,Compulsory,Pickle,fixed
+Wednesday,Dinner,Common,Rice,fixed
+Wednesday,Dinner,Common,Roti,fixed
+Wednesday,Dinner,Common,Arhar Dal,fixed
+Wednesday,Dinner,Dry,Potato Fry,fixed
+Wednesday,Dinner,Gravy,Mutton Curry,choice
+Wednesday,Dinner,Gravy,Kadhai Paneer,choice
+Wednesday,Dinner,Dessert,Gulab Jamun,fixed
+Wednesday,Dinner,Compulsory,Pickle,fixed
+Thursday,Breakfast,Items,Onion Uttapam,fixed
+Thursday,Breakfast,Items,Chutney,fixed
+Thursday,Breakfast,Items,Bread with Jam/Butter,fixed
+Thursday,Breakfast,Items,Tea/Coffee,fixed
+Thursday,Breakfast,Items,Milk,fixed
+Thursday,Breakfast,Compulsory,Egg/Banana,fixed
+Thursday,Lunch,Common,Rice,fixed
+Thursday,Lunch,Common,Roti,fixed
+Thursday,Lunch,Common,Dalma,fixed
+Thursday,Lunch,Common,Curd,fixed
+Thursday,Lunch,Dry,Vegetable Fried Chips,fixed
+Thursday,Lunch,Gravy,Ghanta,fixed
+Thursday,Lunch,Compulsory,Pickle,fixed
+Thursday,Dinner,Common,Rice,fixed
+Thursday,Dinner,Common,Roti,fixed
+Thursday,Dinner,Common,Moong Dal,fixed
+Thursday,Dinner,Common,Chips,fixed
+Thursday,Dinner,Dry,Bhindi-Aloo,fixed
+Thursday,Dinner,Gravy,Egg Chicken Bharta,choice
+Thursday,Dinner,Gravy,Paneer Bhurji,choice
+Thursday,Dinner,Dessert,Kheer,fixed
+Thursday,Dinner,Compulsory,Pickle,fixed
+Friday,Breakfast,Items,Methi Puri,fixed
+Friday,Breakfast,Items,Sabji,fixed
+Friday,Breakfast,Items,Tea/Coffee,fixed
+Friday,Breakfast,Items,Milk,fixed
+Friday,Breakfast,Compulsory,Egg/Banana,fixed
+Friday,Lunch,Common,Chicken Biryani,choice
+Friday,Lunch,Common,Veg Biryani,choice
+Friday,Lunch,Common,Roti,fixed
+Friday,Lunch,Common,Chips,fixed
+Friday,Lunch,Dry,Raita,fixed
+Friday,Lunch,Dry,Biryani Gravy,fixed
+Friday,Lunch,Gravy,Kadhai Paneer,fixed
+Friday,Lunch,Compulsory,Pickle,fixed
+Friday,Dinner,Common,Rice,fixed
+Friday,Dinner,Common,Paratha,fixed
+Friday,Dinner,Common,Arhar Dal,fixed
+Friday,Dinner,Dry,Dry Mix Veg,fixed
+Friday,Dinner,Gravy,Chicken Kasa,choice
+Friday,Dinner,Gravy,Paneer Bhurji,choice
+Friday,Dinner,Compulsory,Pickle,fixed
+Saturday,Breakfast,Items,Idli Sambar,fixed
+Saturday,Breakfast,Items,Chutney,fixed
+Saturday,Breakfast,Items,Bread with Jam/Butter,fixed
+Saturday,Breakfast,Items,Tea/Coffee,fixed
+Saturday,Breakfast,Items,Milk,fixed
+Saturday,Breakfast,Compulsory,Egg/Banana,fixed
+Saturday,Lunch,Common,Rice,fixed
+Saturday,Lunch,Common,Roti,fixed
+Saturday,Lunch,Common,Moong Dal,fixed
+Saturday,Lunch,Common,Papad,fixed
+Saturday,Lunch,Common,Salad,fixed
+Saturday,Lunch,Dry,Dahi Baigan,fixed
+Saturday,Lunch,Gravy,Fish Curry,choice
+Saturday,Lunch,Gravy,Veg Navratna,choice
+Saturday,Lunch,Compulsory,Pickle,fixed
+Saturday,Dinner,Common,Jeera Rice,fixed
+Saturday,Dinner,Common,Roti,fixed
+Saturday,Dinner,Common,Dal Fry,fixed
+Saturday,Dinner,Common,Chips,fixed
+Saturday,Dinner,Dry,Gobi Pakoda,fixed
+Saturday,Dinner,Gravy,Chhole Curry,fixed
+Saturday,Dinner,Dessert,Jalebi,choice
+Saturday,Dinner,Dessert,Suji Halwa,choice
+Saturday,Dinner,Compulsory,Pickle,fixed
+Sunday,Breakfast,Items,Upma,fixed
+Sunday,Breakfast,Items,Ghugni,fixed
+Sunday,Breakfast,Items,Bread with Jam/Butter,fixed
+Sunday,Breakfast,Items,Tea/Coffee,fixed
+Sunday,Breakfast,Items,Milk,fixed
+Sunday,Breakfast,Compulsory,Egg/Banana,fixed
+Sunday,Lunch,Common,Fried Rice,fixed
+Sunday,Lunch,Common,Roti,fixed
+Sunday,Lunch,Common,Toor Dal,fixed
+Sunday,Lunch,Common,Curd,fixed
+Sunday,Lunch,Dry,Karela Chips,fixed
+Sunday,Lunch,Gravy,Chicken Masala,choice
+Sunday,Lunch,Gravy,Paneer Masala,choice
+Sunday,Lunch,Dessert,Cone Ice-cream,fixed
+Sunday,Lunch,Compulsory,Pickle,fixed
+Sunday,Dinner,Common,Rice,fixed
+Sunday,Dinner,Common,Roti,fixed
+Sunday,Dinner,Common,Arhar Dal,fixed
+Sunday,Dinner,Common,Salad,fixed
+Sunday,Dinner,Common,Chips,fixed
+Sunday,Dinner,Dry,Aloo-Baigan-Tomato Bharta,fixed
+Sunday,Dinner,Gravy,Soyabean Chilli,fixed
+Sunday,Dinner,Compulsory,Pickle,fixed

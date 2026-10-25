@@ -1,0 +1,75 @@
+name,category,meal,cost_per_kg,portion_g,calories,protein_g
+# Dishes come from the IIIT Bhubaneswar Ground Floor Mess menu (menu.csv).
+# cost_per_kg, portion_g, calories and protein_g are ESTIMATES - replace them with the mess's real figures.
+# 'meal' lists where the dish is served in the weekly menu (separate meals with ';').
+Chole Bhature,Main,Breakfast,110,220,520,12
+Aloo Paratha,Main,Breakfast,90,100,270,5
+Pasta/Macaroni,Main,Breakfast,100,150,240,7
+Onion Uttapam,Main,Breakfast,80,150,200,6
+Methi Puri,Main,Breakfast,100,120,380,6
+Idli Sambar,Main,Breakfast,70,250,220,8
+Upma,Main,Breakfast,60,180,230,5
+Chutney,Side,Breakfast,80,40,40,1
+Sabji,Side,Breakfast,70,100,100,2
+Ghugni,Side,Breakfast,80,120,150,7
+Tomato Sauce,Side,Breakfast,120,20,20,0
+Bread with Jam/Butter,Side,Breakfast,130,60,170,4
+Egg/Banana,Side,Breakfast,120,100,90,5
+Tea/Coffee,Beverage,Breakfast,40,70,40,1
+Milk,Milk,Breakfast,55,150,95,5
+Rice,Staple,Lunch;Dinner,45,200,260,5
+Roti,Staple,Lunch;Dinner,60,100,270,8
+Jeera Rice,Staple,Lunch;Dinner,65,200,290,5
+Fried Rice,Staple,Lunch,85,220,330,7
+Paratha,Staple,Dinner,85,100,300,6
+Chicken Biryani,Staple,Lunch,260,300,520,25
+Veg Biryani,Staple,Lunch,120,300,430,10
+Dalma,Dal,Lunch,80,150,170,9
+Masoor Dal,Dal,Lunch;Dinner,85,150,160,10
+Arhar Dal,Dal,Lunch;Dinner,90,150,170,10
+Chana Dal,Dal,Dinner,90,150,190,11
+Moong Dal,Dal,Lunch;Dinner,90,150,150,10
+Toor Dal,Dal,Lunch,90,150,170,10
+Dal Fry,Dal,Dinner,90,150,180,10
+Papad,Side,Lunch,300,20,60,2
+Curd,Side,Lunch,60,100,60,3
+Salad,Side,Lunch;Dinner,45,60,25,1
+Chips,Side,Lunch;Dinner,150,30,160,2
+Raita,Side,Lunch,70,100,70,3
+Pickle,Side,Lunch;Dinner,150,15,25,0
+Tomato Khatta,Dry,Lunch,60,60,40,1
+Paneer Bhurji,Dry,Lunch;Dinner,330,100,230,14
+Vegetable Chips,Dry,Dinner,150,50,220,2
+Aloo Banana Chips,Dry,Dinner,140,60,220,2
+Beans-Aloo Fry,Dry,Lunch,80,100,110,3
+Potato Fry,Dry,Dinner,70,100,130,2
+Vegetable Fried Chips,Dry,Lunch,140,60,210,2
+Bhindi-Aloo,Dry,Dinner,85,100,120,3
+Dry Mix Veg,Dry,Dinner,75,100,90,3
+Dahi Baigan,Dry,Lunch,90,100,100,3
+Gobi Pakoda,Dry,Dinner,110,100,230,5
+Karela Chips,Dry,Lunch,130,50,150,2
+Aloo-Baigan-Tomato Bharta,Dry,Dinner,75,100,90,2
+Soyabean Curry,Gravy,Lunch,70,130,130,11
+Ghanta,Gravy,Lunch,70,120,110,4
+Veg Tadka,Gravy,Dinner,70,120,100,3
+Egg Curry,Gravy,Dinner,150,150,230,14
+Mix Veg,Gravy,Dinner,75,120,100,3
+Parwal Curry,Gravy,Lunch,80,120,100,3
+Mutton Curry,Gravy,Dinner,650,120,260,20
+Kadhai Paneer,Gravy,Lunch;Dinner,340,120,280,14
+Egg Chicken Bharta,Gravy,Dinner,220,130,220,15
+Chicken Kasa,Gravy,Dinner,280,130,260,22
+Fish Curry,Gravy,Lunch,300,130,210,18
+Veg Navratna,Gravy,Lunch,110,120,170,5
+Chhole Curry,Gravy,Dinner,95,150,200,9
+Chicken Masala,Gravy,Lunch,280,130,250,22
+Paneer Masala,Gravy,Lunch,340,120,270,13
+Soyabean Chilli,Gravy,Dinner,90,100,170,11
+Biryani Gravy,Side,Lunch,180,80,90,6
+Pahala Rasgulla,Dessert,Dinner,220,80,180,3
+Gulab Jamun,Dessert,Dinner,200,60,250,3
+Kheer,Dessert,Dinner,120,100,180,4
+Jalebi,Dessert,Dinner,180,60,240,2
+Suji Halwa,Dessert,Dinner,130,80,250,4
+Cone Ice-cream,Dessert,Lunch,250,60,140,2
